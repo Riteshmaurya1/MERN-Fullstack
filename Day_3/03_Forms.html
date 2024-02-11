@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Form</title>
+</head>
+<body>
+    <h2>Registration Form</h2>
+    <form action="/action" method="get">
+        <label for="fname">
+            Name:-
+        </label>
+        <br>
+        <input type="text" name="fname" id="" placeholder="Enter Name"><br>
+        <label for="email">
+            Email:-
+        </label>
+        <br>
+        <input type="email" name="email" id="" placeholder="Enter Email"><br>
+        <label for="password">
+            Password
+        </label>
+        <br>
+        <input type="password" name="password" id="" placeholder="Enter Password">
+        <br>
+        <label for="branch">Choose Your Branch:-</label>
+        <select name="branch" id="branch">
+            <option value="CS">CS</option>
+            <option value="IT">IT</option>
+            <option value="Other" selected>Other</option>
+        </select>
+        <br>
+        <label for="gender">Gender:-</label>
+        <br>
+        <label>Male<input type="radio" name="gender" id="Male" name="Male"></label>
+        <label>Female<input type="radio" name="gender" id="female" name="female"></label>
+        <label>Other<input type="radio" name="gender" id="other" name="other"></label>
+        <br>
+        <label for="number">
+            Phone No:-
+        </label>
+        <br>
+        <input type="number" name="number" id="" placeholder="Enter Phone No"><br>
+        <label for="dob">
+            DOB:-
+        </label>
+        <br>
+        <input type="datetime" name="dob" id="" placeholder="Enter Date and Time">
+        <br>
+        <label for="age">I Am 18+</label>
+        <input type="checkbox" name="age" id="age" unchecked>
+        <br>
+        <button type="submit">Submit</button>
+        <button type="reset">Reset</button>
+    </form>
+</body>
+</html>
