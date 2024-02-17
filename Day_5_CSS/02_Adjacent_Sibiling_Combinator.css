@@ -1,0 +1,12 @@
+*
+{
+    background-color: burlywood;
+}
+p + h3 
+{
+    text-decoration: underline;
+}
+div > p 
+{
+    color: rgb(84, 195, 0);
+}
