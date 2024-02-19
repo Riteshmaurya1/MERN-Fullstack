@@ -1,0 +1,104 @@
+*{
+    background: fixed;
+    background-color: rgba(148, 148, 148, 0.992);
+
+}
+/* CSS Hover Properties */
+div
+{
+    background-color: aquamarine;
+    color: chocolate;
+    height: 50%;
+    width: 50%;
+    display:flex;
+    justify-content:center;
+    border-radius:10px;
+
+}
+div:hover
+{
+    background-color: rgb(227, 0, 0);
+    color: rgb(233, 99, 3);
+    height: 50%;
+    width: 50%;
+    display:flex;
+    justify-content:center;
+
+}
+.pseudo img {
+    /* height:30rem;
+    width:50rem; */
+    height:40%;
+    width:40%;
+    border-radius:30px;
+}
+.pseudo img:hover {
+    /* height:30rem;
+    width:50rem; */
+    height:30%;
+    width:80%;
+    border-radius:20px 5px 20px 5px;
+    border:40px;
+}
+/* CSS Active Properties */
+button
+{
+    color: blanchedalmond;
+    height: 50px;
+    width:100px;
+    background-color: black;
+    border-radius:8%;
+}
+button:hover
+{
+    color: rgb(255, 153, 0);
+    height: 50px;
+    width:100px;
+    background-color: rgb(255, 255, 255);
+    border-radius:8%;
+}
+button:active
+{
+    color: rgb(0, 105, 243);
+    height: 50px;
+    width:100px;
+    background-color: rgb(255, 149, 149);
+    border-radius:8%;
+}
+/* CSS Checked Property on The Radio Button*/
+input[type="radio"]:checked + label
+{
+    color: rgb(255, 0, 0);
+    font-weight: bold;
+}
+/* CSS nth of type Properties */
+li:nth-of-type(4)
+{
+    color: blue;
+}
+/* First-line,First-element Pseudo Elements */
+ul::first-line
+{
+    color:aqua;
+}
+li:nth-of-type(4)::first-letter
+{
+    color: rgb(255, 0, 0);
+}
+p::selection
+{
+    color: bisque;
+    background-color: rgb(118, 118, 118);
+}
+/* Selector-Specificity */
+p {
+    background-color: lightcyan;
+}
+.p-tag
+{
+  background-color: rgb(0, 116, 77) !important;
+}
+#p-tag
+{
+    background-color: aqua;
+}

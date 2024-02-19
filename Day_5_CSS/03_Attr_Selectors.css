@@ -1,5 +1,7 @@
 body{
     background-color: rgb(0, 217, 148);
+    word-spacing:2px;
+
 }
 input[type="text"]
 {
@@ -12,9 +14,35 @@ input[type="password"]
 input
 {
     border: 3px solid rgba(212, 197, 197, 0.544);
+    margin:5px;
 
 }
 input[type="text"]:hover
 {
     color: rgb(230, 65, 0);
+}
+div > input
+{
+    background-color: aquamarine;
+}
+input[type=text]:focus {
+    border: 3px solid #ffffff;
+}
+button
+{
+    color: rgb(153, 88, 3);
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: larger;
+    font-weight: 500;
+    font-style: normal;
+    border-radius: 3px solid white;
+}
+button:hover
+{
+    color: rgb(115, 105, 249);
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: larger;
+    font-weight: 500;
+    font-style: normal;
+    border-radius: 3px solid rgb(255, 33, 33);
 }
