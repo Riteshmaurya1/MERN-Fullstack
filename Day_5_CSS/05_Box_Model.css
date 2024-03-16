@@ -1,0 +1,14 @@
+*
+{
+    background-color:rgba(126, 129, 130, 0.864);
+}
+div{
+    height: 200px ;
+    background-color: aquamarine;
+    margin: 10px;
+    padding:30px;
+    border:5px solid red;
+    border-inline: 5px  rgb(45, 0, 248);
+    border-style:groove;
+    
+}

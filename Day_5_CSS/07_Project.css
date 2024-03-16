@@ -1,0 +1,41 @@
+
+*{
+    margin:12px;
+}.card
+{
+    border: 2px solid rgb(125, 124, 124);
+    height: 200px;
+    width: 170px;
+    margin: 5px;
+    display: inline-block;
+    box-shadow: 5px 5px 15px ;
+    transition: 2s;
+    align-items: center;
+    display: inline-block;
+    padding-left: 30px;
+    border-radius: 5px;
+}
+.card:hover
+{
+    border: 2px solid rgb(195, 129, 129);
+    height: 200px;
+    width: 170px;
+    margin-left:5px;
+    display: inline-block;
+    box-shadow: 7px 7px 20px solid black;
+    transition: 2s;
+    align-items: center;
+    display: inline-block;
+    padding-left: 30px;
+    background-color: rgb(85, 204, 204);
+    transform: scale(1.1);
+    border-radius: 5px;
+    position: relative;
+    
+}
+.desc
+{
+    display:inline;
+    margin: 2px;
+    
+}
