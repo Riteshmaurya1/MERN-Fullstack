@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f5dd7c04-cdfa-4ee5-b162-0c722b678e33" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript File" />
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Day_14_JS/09-Practice.js" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2dmetPTXX1MAPxESo9aNkxoujQL" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "JavaScript Debug.01-All-Js-Files-Include.html.executor": "Run",
+    "JavaScript Debug.01_Table.html.executor": "Run",
+    "JavaScript Debug.02-Index.html.executor": "Run",
+    "JavaScript Debug.02_Rowspan.html.executor": "Run",
+    "JavaScript Debug.08_Font-size-units-in-CSS.html.executor": "Run",
+    "Node.js.01-Consoleinjs.js.executor": "Run",
+    "Node.js.01-StringsMethodInJs.js.executor": "Run",
+    "Node.js.02-App.js.executor": "Run",
+    "Node.js.02-Methods-With-Args.js.executor": "Run",
+    "Node.js.03-Operations.js.executor": "Run",
+    "Node.js.03-Operator.js.executor": "Run",
+    "Node.js.03-OperatorsinJs.js.executor": "Run",
+    "Node.js.03-Practice-Qs.js.executor": "Run",
+    "Node.js.04-ArraysInJs.js.executor": "Run",
+    "Node.js.04-ConditionalStatements.js.executor": "Run",
+    "Node.js.05-ArraysInJs.js.executor": "Run",
+    "Node.js.05-Practice.js.executor": "Run",
+    "Node.js.07-Assignment-Opera....js.executor": "Run",
+    "Node.js.09-Practice.js.executor": "Run",
+    "Node.js.10-Identifier-Rules.js.executor": "Run",
+    "Node.js.11-Boolean.js.executor": "Run",
+    "Node.js.14-StringsInJs.js.executor": "Run",
+    "Node.js.15-String-Indices.js.executor": "Run",
+    "Node.js.16-ConcatenationInjs.js.executor": "Run",
+    "Node.js.17-Null&Undefind.js.executor": "Run",
+    "Node.js.18-Practice.js.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "full.screen.before.presentation.mode": "false",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/pc/Desktop/FULLSTACK---MERN---",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "ts.external.directory.path": "C:\\Program Files\\JetBrains\\WebStorm 2023.3.5\\plugins\\javascript-impl\\jsLanguageServicesImpl\\external",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="QodanaReportsService">
+    <option name="descriptions">
+      <ReportDescription localRun="true" path="C:\Users\pc\AppData\Local\Temp\qodana_output\qodana.sarif.json" reportGuid="c1d0ee10-e1bb-404a-81ce-dbe6c47779ac" reportId="FULLSTACK---MERN---/qodana/2024-03-17" />
+    </option>
+  </component>
+  <component name="ReadonlyStatusHandler">
+    <option name="SHOW_DIALOG" value="false" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f5dd7c04-cdfa-4ee5-b162-0c722b678e33" name="Changes" comment="" />
+      <created>1710617899141</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1710617899141</updated>
+      <workItem from="1710617900583" duration="157000" />
+      <workItem from="1710618123893" duration="80000" />
+      <workItem from="1710618817971" duration="103000" />
+      <workItem from="1710618969796" duration="40000" />
+      <workItem from="1710660739458" duration="6337000" />
+      <workItem from="1710668066011" duration="118000" />
+      <workItem from="1710673190379" duration="209000" />
+      <workItem from="1710687041781" duration="309000" />
+      <workItem from="1710691743342" duration="8803000" />
+      <workItem from="1710750960226" duration="8000" />
+      <workItem from="1710778160355" duration="8385000" />
+      <workItem from="1710840878421" duration="4686000" />
+      <workItem from="1710861154102" duration="3137000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
