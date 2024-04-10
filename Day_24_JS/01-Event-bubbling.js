@@ -9,7 +9,8 @@ div.addEventListener("click", function () {
 ul.addEventListener("click", function (event) {
     event.stopPropagation();
     console.log("ul was clicked!");
-
+  
+    
 });
  for(li of lis ){
     li.addEventListener("click", function (event) {
