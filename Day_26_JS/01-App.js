@@ -150,7 +150,3 @@ let url = "https://catfact.ninja/fact";
 //     }
 //     console.log("Byee!");
 // }
-
-
-//Send htpps requests Using Axios 
-
