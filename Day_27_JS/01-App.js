@@ -16,7 +16,6 @@ async function getFacts() {
         return "No fact found";
     }
 }
-
 // API for the img generation
 let url2 = "https:dog.ceo/api/breeds/image/random";
 let btn2 = document.querySelector(".btn");
