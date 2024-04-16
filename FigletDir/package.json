@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "figlet": "^1.7.0",
+    "random-words": "^2.0.1"
+  },
+  "name": "package.json",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ritesh kumar",
+  "license": "ISC",
+  "description": ""
+}
