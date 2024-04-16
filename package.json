@@ -1,0 +1,17 @@
+{
+  "name": "mern-fullstack",
+  "version": "1.0.0",
+  "description": "<br>\r #LANGUAGES_AND_FRAMEWORKS:-\"HTML,CSS,JAVASCRIPT,TAILWIND_CSS,BOOTSTRAP,REACT AND ETC.\r <br>\r #Author:-Ritesh Maurya\r <br>\r Hi, I'm Ritesh Maurya, a passionate MERN stack developer with expertise in HTML, CSS, React, JavaScript, Node. js, Express, and MongoDB.",
+  "main": "03-math.js",
+  "dependencies": {
+    "Figlet":"^1.6.8"
+  },
+  "devDependencies":{},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ritesh Maurya",
+  "license": "ISC",
+  "type": "module"
+
+}
