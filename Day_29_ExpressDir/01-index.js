@@ -32,23 +32,43 @@ app.listen(port,()=>{
 // Routing  
 
 
-app.get("/",(req,res)=>{
-    res.send("You Connected to root path !");
-});
-app.get("/Apple",(req,res)=>{
-    res.send("You Connected to Apple path !");
-});
-app.get("/Mango",(req,res)=>{
-    res.send("You Connected to Mango path !");
-});
-app.get("*",(req,res)=>{
-    res.send("This path does not exist!");
-});
+// app.get("/",(req,res)=>{
+//     res.send("You Connected to root path !");
+// });
+// app.get("/Apple",(req,res)=>{
+//     res.send("You Connected to Apple path !");
+// });
+// app.get("/Mango",(req,res)=>{
+//     res.send("You Connected to Mango path !");
+// });
+// app.get("*",(req,res)=>{
+//     res.send("This path does not exist!");
+// });
+// app.get("/Banana",(req,res)=>{
+//     res.send("This path does not exist!");
+// });
 
-app.post("/",(req,res)=>{
-    res.send("You sent post request to connect !");
+// app.post("/",(req,res)=>{
+//     res.send("You sent post request to connect !");
+// });
+
+// PathParameters 
+app.get("/",(req,res) => {
+    res.send("Hello,i am root");
 });
-
-
-
-
+app.get("/:username/:id",(req,res) => {
+    let{username,id} = req.params;
+    // res.send(`Welcome @${username} to our web page and your id is ${id}`);
+    let htmlstr = `<h1>Welcome @${username} to our web page and your id is ${id}</h1>`;
+    res.send(htmlstr);
+});
+app.get("/search",(req,res) => {
+    // console.log(req.query);
+    // res.send("No result is here");
+    let{q} = req.query;
+    if(!q){
+        res.send("<h1>Nothing searched!!</h1>");
+    }
+    res.send(`<h1>search results for query : ${q}</h1>`);
+    console.log(`search results for query : ${q}`);
+})
