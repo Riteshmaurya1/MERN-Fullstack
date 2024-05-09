@@ -1,0 +1,18 @@
+[{
+  "_id": {
+    "$oid": "663ca33327df58336246b79a"
+  },
+  "name": "Uttam maurya",
+  "mark": 79,
+  "age": 21,
+  "location": "Lucknow"
+},
+{
+  "_id": {
+    "$oid": "663ca33327df58336246b79b"
+  },
+  "name": "Nawab@",
+  "marks": 95,
+  "age": 19,
+  "location": "haidrabad"
+}]
